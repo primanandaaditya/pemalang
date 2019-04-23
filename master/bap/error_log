@@ -1,0 +1,8 @@
+[07-Sep-2018 09:00:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
+[07-Sep-2018 09:00:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
+[07-Sep-2018 09:00:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
+[07-Sep-2018 09:00:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 43
+[07-Sep-2018 09:00:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
+[07-Sep-2018 09:00:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
+[07-Sep-2018 09:00:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 43
+[07-Sep-2018 09:00:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bakf7697/public_html/index.php on line 3
